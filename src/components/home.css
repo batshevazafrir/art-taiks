@@ -1,0 +1,21 @@
+.input-group.md-form.form-sm.form-1 input {
+    border: 1px solid #bdbdbd;
+    border-top-right-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+  }
+
+  
+  /* // <MDBCard key={index} className='card1 '>
+  //     <MDBCardImage className="img-fluid" src={card.image} waves />
+
+  //     <MDBCardBody className='card1'>
+  //         <MDBCardTitle tag='h7' >
+  //             {card.nameArt}
+  //         </MDBCardTitle>
+  //         <MDBCardText className='fsize '>
+  //             <p className='t1'> {card.description}</p>
+
+  //         </MDBCardText>
+
+  //     </MDBCardBody>
+  // </MDBCard> */
