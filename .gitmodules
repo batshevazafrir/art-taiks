@@ -1,0 +1,3 @@
+[submodule "art-taiks"]
+	path = art-taiks
+	url = https://github.com/batshevazafrir/art-taiks.git
